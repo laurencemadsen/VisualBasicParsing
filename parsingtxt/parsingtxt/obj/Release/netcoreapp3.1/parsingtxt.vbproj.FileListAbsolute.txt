@@ -1,0 +1,14 @@
+C:\Users\larry\source\repos\parsingtxt\parsingtxt\bin\Release\netcoreapp3.1\parsingtxt.exe
+C:\Users\larry\source\repos\parsingtxt\parsingtxt\bin\Release\netcoreapp3.1\parsingtxt.deps.json
+C:\Users\larry\source\repos\parsingtxt\parsingtxt\bin\Release\netcoreapp3.1\parsingtxt.runtimeconfig.json
+C:\Users\larry\source\repos\parsingtxt\parsingtxt\bin\Release\netcoreapp3.1\parsingtxt.runtimeconfig.dev.json
+C:\Users\larry\source\repos\parsingtxt\parsingtxt\bin\Release\netcoreapp3.1\parsingtxt.dll
+C:\Users\larry\source\repos\parsingtxt\parsingtxt\bin\Release\netcoreapp3.1\parsingtxt.pdb
+C:\Users\larry\source\repos\parsingtxt\parsingtxt\obj\Release\netcoreapp3.1\parsingtxt.vbproj.AssemblyReference.cache
+C:\Users\larry\source\repos\parsingtxt\parsingtxt\obj\Release\netcoreapp3.1\parsingtxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larry\source\repos\parsingtxt\parsingtxt\obj\Release\netcoreapp3.1\parsingtxt.AssemblyInfoInputs.cache
+C:\Users\larry\source\repos\parsingtxt\parsingtxt\obj\Release\netcoreapp3.1\parsingtxt.AssemblyInfo.vb
+C:\Users\larry\source\repos\parsingtxt\parsingtxt\obj\Release\netcoreapp3.1\parsingtxt.vbproj.CoreCompileInputs.cache
+C:\Users\larry\source\repos\parsingtxt\parsingtxt\obj\Release\netcoreapp3.1\parsingtxt.dll
+C:\Users\larry\source\repos\parsingtxt\parsingtxt\obj\Release\netcoreapp3.1\parsingtxt.pdb
+C:\Users\larry\source\repos\parsingtxt\parsingtxt\obj\Release\netcoreapp3.1\parsingtxt.genruntimeconfig.cache

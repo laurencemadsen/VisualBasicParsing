@@ -1,0 +1,5 @@
+C:\Users\larry\OneDrive\Desktop\ParsingText\parsingtxt.exe
+C:\Users\larry\OneDrive\Desktop\ParsingText\parsingtxt.dll
+C:\Users\larry\OneDrive\Desktop\ParsingText\parsingtxt.deps.json
+C:\Users\larry\OneDrive\Desktop\ParsingText\parsingtxt.runtimeconfig.json
+C:\Users\larry\OneDrive\Desktop\ParsingText\parsingtxt.pdb
